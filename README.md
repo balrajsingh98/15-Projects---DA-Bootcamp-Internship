@@ -1,4 +1,4 @@
-# 15-Projects---DA-Bootcamp-Internship
+# 15-POWER BI-Projects
 15 data Analytics in EXCEL and POWER BI with different datasets.
 
 
